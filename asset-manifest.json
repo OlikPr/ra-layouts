@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OlikPr/ra-layouts/static/css/main.fc704576.css",
+    "main.js": "/OlikPr/ra-layouts/static/js/main.008dbac1.js",
+    "static/js/787.290568d9.chunk.js": "/OlikPr/ra-layouts/static/js/787.290568d9.chunk.js",
+    "index.html": "/OlikPr/ra-layouts/index.html",
+    "main.fc704576.css.map": "/OlikPr/ra-layouts/static/css/main.fc704576.css.map",
+    "main.008dbac1.js.map": "/OlikPr/ra-layouts/static/js/main.008dbac1.js.map",
+    "787.290568d9.chunk.js.map": "/OlikPr/ra-layouts/static/js/787.290568d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc704576.css",
+    "static/js/main.008dbac1.js"
+  ]
+}
